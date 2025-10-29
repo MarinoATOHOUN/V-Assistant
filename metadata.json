@@ -1,0 +1,7 @@
+{
+  "name": "Ligne d'Assistance IA INF",
+  "description": "Une application pour permettre l'enregistrement de dépositions via une conversation vocale avec une IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
